@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/gamesense.world",
     "slug": "gamesense-world",
     "status": "down",
-    "uptime": "0.27%",
-    "uptimeDay": "0.27%",
-    "uptimeWeek": "0.27%",
-    "uptimeMonth": "0.27%",
-    "uptimeYear": "0.27%",
-    "time": 48,
-    "timeDay": 48,
-    "timeWeek": 48,
-    "timeMonth": 48,
-    "timeYear": 48,
+    "uptime": "33.59%",
+    "uptimeDay": "33.59%",
+    "uptimeWeek": "33.59%",
+    "uptimeMonth": "33.59%",
+    "uptimeYear": "33.59%",
+    "time": 60,
+    "timeDay": 60,
+    "timeWeek": 60,
+    "timeMonth": 60,
+    "timeYear": 60,
     "dailyMinutesDown": {
-      "2021-08-09": 8
+      "2021-08-09": 14
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/neverlose.store",
     "slug": "neverlose-store",
     "status": "down",
-    "uptime": "0.12%",
-    "uptimeDay": "0.12%",
-    "uptimeWeek": "0.12%",
-    "uptimeMonth": "0.12%",
-    "uptimeYear": "0.12%",
-    "time": 109,
-    "timeDay": 109,
-    "timeWeek": 109,
-    "timeMonth": 109,
-    "timeYear": 109,
+    "uptime": "13.86%",
+    "uptimeDay": "13.86%",
+    "uptimeWeek": "13.86%",
+    "uptimeMonth": "13.86%",
+    "uptimeYear": "13.86%",
+    "time": 113,
+    "timeDay": 113,
+    "timeWeek": 113,
+    "timeMonth": 113,
+    "timeYear": 113,
     "dailyMinutesDown": {
-      "2021-08-09": 8
+      "2021-08-09": 19
     }
   },
   {
@@ -56,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-08-09": 8
+      "2021-08-09": 21
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://favicons.githubusercontent.com/gamesense.world",
     "slug": "api",
     "status": "down",
-    "uptime": "0.21%",
-    "uptimeDay": "0.21%",
-    "uptimeWeek": "0.21%",
-    "uptimeMonth": "0.21%",
-    "uptimeYear": "0.21%",
-    "time": 16,
-    "timeDay": 16,
-    "timeWeek": 16,
-    "timeMonth": 16,
-    "timeYear": 16,
+    "uptime": "12.68%",
+    "uptimeDay": "12.68%",
+    "uptimeWeek": "12.68%",
+    "uptimeMonth": "12.68%",
+    "uptimeYear": "12.68%",
+    "time": 18,
+    "timeDay": 18,
+    "timeWeek": 18,
+    "timeMonth": 18,
+    "timeYear": 18,
     "dailyMinutesDown": {
-      "2021-08-09": 8
+      "2021-08-09": 19
     }
   }
 ]
