@@ -20,7 +20,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**pukpuker sites**"
-  introMessage: Можете посмотреть статусы моих сайтов
+  introMessage: Статусы лучших сайтов
   navbar:
     - title: Status
       href: /
