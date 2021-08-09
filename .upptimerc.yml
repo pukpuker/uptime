@@ -3,14 +3,16 @@ owner: pukpuker # Your GitHub organization or username, where this repository li
 repo: uptime # The name of this repository
 
 sites:
-  - name: Gamesense.world
+  - name: gamesense.world
     url: https://gamesense.world
-  - name: Neverlose.store
+  - name: neverlose.store
     url: https://neverlose.store
-  - name: Onecrack.guru
+  - name: onecrack.guru
     url: https://onecrack.guru
   - name: API
     url: https://gamesense.world
+  - name: CDN
+    url: http://cdn-pukpuker.great-site.net
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
